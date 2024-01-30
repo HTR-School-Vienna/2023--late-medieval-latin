@@ -1,0 +1,48 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTR Winter School 2023/2024 - Late Medieval Latin, ONB 3891
+url: https://github.com/HTR-School-Vienna/2023--late-medieval-latin
+authors: []
+institutions: []
+description: >-
+  Ground truth for ÖNB 3891 manuscript + automatically read pages with
+  Transkribus.
+language:
+  - lat
+production-software: Transkribus
+automatically-aligned: false
+script:
+  - iso: Latn
+    qualify: Bastarda
+script-type: only-manuscript
+time:
+  notBefore: '1441'
+  notAfter: '1441'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+volume:
+  - metric: lines
+    count: 2900
+citation-file-link: ./CITATION.cff
+transcription-guidelines: >
+  - expanded abbrevations
+   - preserved original punctuation
+   - preserved the original interpunction
+   - used "/" for virgula
+   - didn´t add "." at the end of sentences
+   - used ¬ at the end of the line if a word is divided
+   - used "v" for consonant and "u" for vocal
+   - used i for i/j
+   - used s for ſ/s
+   - used c/t as in the manuscript
+   - no capitalization of letters
+   - preserved "ll" in the place of L, "ff" in the place of "F", etc.
+   - separated prepositions from words
+   - wrote words together that ought to be written together 
+   - preserved numbers
+  See [Google
+  docs](https://docs.google.com/document/d/1YdHBZzUrIEE6TL6aio8J5Zrf-GSCWfgNV8BNHD7pKSI/edit?usp=sharing)
