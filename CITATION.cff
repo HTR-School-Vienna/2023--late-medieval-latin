@@ -1,48 +1,48 @@
 cff-version: 1.12.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Odstrcilik
-    given-names: Jan
-    orcid: https://orcid.org/0000-0001-9104-9827
-  - family-names: Yücel    
-    given-names: Fatih
-    orcid: https://orcid.org/0000-0003-2591-5154
-  - family-names: Rokpelne
-    given-names: Liene
-    orcid: https://orcid.org/0009-0006-5962-678X
-  - family-names: Mihaljević 
-    given-names: Ana
-    orcid: https://orcid.org/0000-0002-1988-4147 
-  - family-names: Šaldová
-    given-names: Zuzana 
-    orcid: https://orcid.org/0009-0000-9365-7471
-  - family-names: Zelenková
-    given-names: Adéla
-    orcid: https://orcid.org/0009-0007-7742-7722
-  - family-names: Ciuntu
-    given-names: Mara
-    orcid: https://orcid.org/0009-0008-8472-0297
-  - family-names:Lukáč Kováčová
-    given-names: Magdaléna
-    orcid: https://orcid.org/0009-0007-1369-6763
-  - family-names: Vašíček
-    given-names: Andrej
-    orcid: https://orcid.org/0009-0007-5630-7000
-  - family-names: Cehuľová
-    given-names: Viktória
-    orcid: https://orcid.org/0009-0000-3695-1244
-  - family-names: Lukáč Labancová
-    given-names: Ivana
-    orcid: https://orcid.org/0009-0000-2060-1629
-  - family-names: Engelmaier
-    given-names: Leonhard
-    orcid:
-  - family-names: Scalia
-    given-names: Andrea
-    orcid:
-  - family-names: Kohn
-    given-names: Albert
-    orcid:    
+- family-names: Odstrcilik
+  given-names: Jan
+  orcid: https://orcid.org/0000-0001-9104-9827
+- family-names: Yücel    
+  given-names: Fatih
+  orcid: https://orcid.org/0000-0003-2591-5154
+- family-names: Rokpelne
+  given-names: Liene
+  orcid: https://orcid.org/0009-0006-5962-678X
+- family-names: Mihaljević 
+  given-names: Ana
+  orcid: https://orcid.org/0000-0002-1988-4147 
+- family-names: Šaldová
+  given-names: Zuzana 
+  orcid: https://orcid.org/0009-0000-9365-7471
+- family-names: Zelenková
+  given-names: Adéla
+  orcid: https://orcid.org/0009-0007-7742-7722
+- family-names: Ciuntu
+  given-names: Mara
+  orcid: https://orcid.org/0009-0008-8472-0297
+- family-names:Lukáč Kováčová
+  given-names: Magdaléna
+  orcid: https://orcid.org/0009-0007-1369-6763
+- family-names: Vašíček
+  given-names: Andrej
+  orcid: https://orcid.org/0009-0007-5630-7000
+- family-names: Cehuľová
+  given-names: Viktória
+  orcid: https://orcid.org/0009-0000-3695-1244
+- family-names: Lukáč Labancová
+  given-names: Ivana
+  orcid: https://orcid.org/0009-0000-2060-1629
+- family-names: Engelmaier
+  given-names: Leonhard
+  orcid:
+- family-names: Scalia
+  given-names: Andrea
+  orcid:
+- family-names: Kohn
+  given-names: Albert
+  orcid:    
 title: "HTR Winter School 2023/2024 - Late Medieval Latin, ONB 3891"
 version: 1.0.0
 identifiers:
