@@ -26,7 +26,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb n='54'/>
+			<pb n='54' resp="#editors"/>
 			<p>
 				<lg>
 					<l>ortamur vos ne in va¬</l>
@@ -109,7 +109,7 @@
 					<l>peccata quia tempus dampnatorum erit in secula</l>
 				</lg>
 			</p>
-			<pb n='55'/>
+			<pb n='55' resp="#editors"/>
 			<p>
 				<lg>
 					<l>et nichil eis remittitur Ignis eorum non</l>
@@ -195,7 +195,7 @@
 					<l>omnes fideles statim post mortem</l>
 				</lg>
 			</p>
-			<pb n='56'/>
+			<pb n='56' resp="#editors"/>
 			<p>
 				<lg>
 					<l>sint sine pena / sed hoc est verum quantum</l>
@@ -276,7 +276,7 @@
 					<l>propter dei gloriam utamur parcius verbis cibis</l>
 				</lg>
 			</p>
-			<pb n='57'/>
+			<pb n='57' resp="#editors"/>
 			<p>
 				<lg>
 					<l>et potibus / sompno iocis et arcius per¬</l>
@@ -352,7 +352,7 @@
 					<l>est / tempus milicie cristiane in quo dyabolus</l>
 				</lg>
 			</p>
-			<pb n='58'/>
+			<pb n='58' resp="#editors"/>
 			<p>
 				<lg>
 					<l>forcius nos insurgit suis cum tempta¬</l>
@@ -430,7 +430,7 @@
 					<l>deo sacrificium laudis Bonum anime ornamentum</l>
 				</lg>
 			</p>
-			<pb n='59'/>
+			<pb n='59' resp="#editors"/>
 			<p>
 				<lg>
 					<l>confessio que peccatorem purgat / et pur¬</l>
